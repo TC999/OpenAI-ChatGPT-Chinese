@@ -5,7 +5,7 @@
 // @copyright    TC999
 // @icon         https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png
 // @version      2023-11-25
-// @author       沙漠之子
+// @author       TC999
 // @license      GPL-3.0
 // @match        https://chat.openai.com/*
 // @require      https://raw.githubusercontent.com/maboloshi/github-chinese/gh-pages/locals.js?v1.8.5
